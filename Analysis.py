@@ -1,4 +1,4 @@
-pip install streamlit yfinance pandas numpy plotly pyportfolioopt matplotlib seaborn quantstats arch statsmodels scikit-learn
+#pip install streamlit yfinance pandas numpy plotly pyportfolioopt matplotlib seaborn quantstats arch statsmodels scikit-learn
 import streamlit as st
 import yfinance as yf
 import pandas as pd
